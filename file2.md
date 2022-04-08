@@ -6,4 +6,28 @@ Hello, this is another file that is created for lab 2.
 This is **Bold** text.
 This is *italicized*. 
 
-**CSE15L** is _awesome_! Getting to learn GitHub and remote access.
+___
+
+**CSE15L** is _awesome_!
+
+__Reasons__
+> 1. Learning Github to publish websites on GitHub Pages
+> 2. Tutors also available on [Autograder](https://autograder.ucsd.edu)
+> 3. Professor Gerald Soosai Raj is extremely energetic in the lectures.
+> * The labs are on topics covered in lecture which reinforces the learning and makes me understand the material by implementing it myself.
+
+___
+**Code**
+
+Inline:
+
+`System.out.println(Hello!);`
+
+Code block:
+
+```
+//Simple code printing two lines
+System.out.println("Hello CSE 15L!");
+System.out.println("Have a great day!");
+
+```
