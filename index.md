@@ -9,7 +9,7 @@ You can find the task of creating another file in lab 2 [here](https://khushijpa
 
 ---
 
-You can find the actual lab report 1 [here](https://khushijpatel.github.io/cse15l-lab-reports/report1.html).
+You can find the actual lab report 1 consisting of work done in lab 1 [here](https://khushijpatel.github.io/cse15l-lab-reports/report1.html).
 
 ---
 
