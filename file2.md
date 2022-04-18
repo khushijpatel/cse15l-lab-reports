@@ -40,7 +40,4 @@ ___
 Screenshot:
 ![Screenshot](Screenshot.jpg)
 
-[Lab Report 1](lab-report-1-week-2.html)
-
-
-[Lab Report 1](https://khushijpatel.github.io/cse15l-lab-reports/file2.html)
+[Lab Report 1](https://khushijpatel.github.io/cse15l-lab-reports/report1.html)
