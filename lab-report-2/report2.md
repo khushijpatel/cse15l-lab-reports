@@ -60,4 +60,4 @@ In the links returned in the terminal, there are a couple of links repeated cons
 
 ## MarkdownParse
 
-MarkdownParse files found [here](https://github.com/khushijpatel/markdown-parser)
+MarkdownParse files found [here](https://github.com/khushijpatel/markdown-parser).
