@@ -20,7 +20,7 @@ The public key is stored on Github. To access the location click on profile -> S
 The private key is stored under the name of ` id_rsa.pub ` in the ` ~/.ssh ` folder.
 ![public key](sshkeystored.jpg)
 
-Running git commands to commit and push a change to Github while logged into my ieng6 account.
+Running git commands to commit and push a change in mardownparse to Github while logged into my ieng6 account.
 ![commit](gitcommit.jpg)
 
 ![push](ieng6githubpush.jpg)
