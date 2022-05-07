@@ -3,38 +3,39 @@
 ## Streamlining ssh Configuration
 Show your .ssh/config file, and how you edited it (with VScode, another program, etc)
 
-Show the ssh command logging you into your account using just the alias you chose.
+The ssh command logging into my account and the config file on VSCode are shown. Typing `~/.ssh/config` tells SSH what username to use when logging into specific servers in this case ieng6.
+
 ![ssh config](sshconfigp1.jpg)
 
 
-Show an scp command copying a file to your account using just the alias you chose.
+An scp command copying a file, GradingTests from lab 6, to my account.
 ![copying file](scpfilesshconfig.jpg)
 
 
 ## Setup Github Access from ieng6
-Show where the public key you made is stored on Github and in your user account (screenshot).
+The public key is stored on Github. To access the location click on profile -> Settings. Then on the left side there's an option for SSH, click that. 
 
 ![public key github](githubssh.jpg)
 
-Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
+The private key is stored under the name of ` id_rsa.pub ` in the ` ~/.ssh ` folder.
 ![public key](sshkeystored.jpg)
 
-Show running git commands to commit and push a change to Github while logged into your ieng6 account.
+Running git commands to commit and push a change to Github while logged into my ieng6 account.
 ![commit](gitcommit.jpg)
 
 ![push](ieng6githubpush.jpg)
 
-Show a link for the resulting commit.
-
+The link for the resulting commit is
+[here](https://github.com/khushijpatel/markdownparser-lab6/commit/f0b90cd1f23c96d17a236b54491e7b96e4dc0366)
 
 
 ## Copy whole directories with scp -r
-Show copying your whole markdown-parse directory to your ieng6 account.
+Copying the whole markdown-parse directory to my ieng6 account.
 ![copy directory](copydirectories1.jpg)
 
-Show logging into your ieng6 account after doing this and compiling and running the tests for your repository.
+Logging into my ieng6 account after doing scp and compiling and running the tests.
 ![running tests](copydirectories2.jpg)
 
-Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
+Combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
 
 ![combined lines run](copydirectories3.jpg)
