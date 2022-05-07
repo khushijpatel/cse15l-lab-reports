@@ -18,5 +18,11 @@ You can find the actual lab report 1 consisting of work done in lab 1 [here](htt
 
 You can find the lab report 2 consisting of work done in lab 3 and 4 [here](https://khushijpatel.github.io/cse15l-lab-reports/lab-report-2/report2.html).
 
+
+### LAB Report 2
+
+You can find the lab report 2 consisting of work done in lab 3 and 4 [here](https://khushijpatel.github.io/cse15l-lab-reports/lab-report-3-week-6/report3.html).
+
+
 ***Have a nice day!!***
 
