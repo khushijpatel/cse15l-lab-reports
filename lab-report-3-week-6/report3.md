@@ -11,6 +11,9 @@ The ssh command logging into my account and the config file on VSCode are shown.
 An scp command copying a file, GradingTests from lab 6, to my account.
 ![copying file](scpfilesshconfig.jpg)
 
+![copying file ieng6](scpieng61.jpg)
+
+![copying file ieng62](scpieng62.jpg)
 
 ## Setup Github Access from ieng6
 The public key is stored on Github. To access the location click on profile -> Settings. Then on the left side there's an option for SSH, click that. 
