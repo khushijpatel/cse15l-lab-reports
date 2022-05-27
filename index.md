@@ -23,6 +23,10 @@ You can find the lab report 2 consisting of work done in lab 3 and 4 [here](http
 
 You can find the lab report 3 consisting of work done in lab 5 [here](https://khushijpatel.github.io/cse15l-lab-reports/lab-report-3-week-6/report3.html).
 
+### LAB Report 4
+
+You can find the lab report 4.
+[here](https://khushijpatel.github.io/cse15l-lab-reports/lab-report-3-week-6/report4.html).
 
 ***Have a nice day!!***
 
