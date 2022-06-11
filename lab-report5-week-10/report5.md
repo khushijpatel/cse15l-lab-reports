@@ -16,7 +16,7 @@ Link to the test-file with different-results:
 
 ### Which Implementation is Wrong?
 ![Test 194](test194.jpg)
-The implementation provided (cse15lsp22-markdown-parser) for test 194.md is incorrect because it results in [url] when it should be [myurl]. My implementation is also incorrect because it resulted in an empty list []. 
+The implementation provided (cse15lsp22-markdown-parser) for test 194.md is incorrect because it results in [url] when it should be [url, with parens]. My implementation is also incorrect because it resulted in an empty list []. 
 
 ![Test 22](test22.jpg)
 The implementation provided (cse15lsp22-markdown-parser) is incorrect because it does not ouptut anything. The result of running test 22.md on the provided implementation is [] a blank array. On the other hand, my implementation passed since it returned [/bar\* "ti\tle"] which should have been resulted since it is a link.
@@ -36,4 +36,4 @@ For test 22.md the bug is likely in line 75. The if statement only runs if the i
 
 ![Bug194](BugFor194.jpg)
 
-For test 194.md the bug is likely in line 70. This test case has two different sets of parantheses and the result is supposed to be my_(url). The if statement in the implementation provided does not seem to account for this case with multiple sets of parentheses (two open and closed parantheses). The implmentation only adds the text inside the first parantheses which is url. The expected result is supposed to be [my_(url)] so the parantheses are not included in the link.
+For test 194.md the bug is likely in line 70. This test case has two different sets of parantheses and the result is supposed to be 'url' and 'with parens' becase both of these are inside parantheses that indicate the link. The if statement in the implementation provided does not seem to account for this case with multiple sets of parentheses (two open and closed parantheses). The implmentation only adds the text inside the first parantheses which is url. The expected result is supposed to be [url, with parens] so the parantheses are not included in the link.
